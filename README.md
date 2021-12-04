@@ -1,1 +1,1 @@
-# JNP3
+# JNP3 - Haskell
